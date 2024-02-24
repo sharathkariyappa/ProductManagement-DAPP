@@ -21,6 +21,6 @@ I wrote the Smart contract using Solidity launguage which is a poppular language
 I used Remix.IDE for deployment and test the Smart contract, and deployed in sepolia test net using metamask provider, i copied the Address and ABI of the smartcontract to integrate with Frontend framework.
 <br>
 <br>
-<b>2. reactjs Application:<b>
+<b>3. reactjs Application:</b>
 <br>
 uisng reactjs i wrote a frontend application to integrate with smartcontract also used web3 provider for getting account details.
